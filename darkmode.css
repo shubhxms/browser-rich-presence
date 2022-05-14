@@ -1,0 +1,18 @@
+html{min-height:300px;min-width:500px}
+
+body{
+    /* background-color: #5865F2; */
+}
+
+h1{
+    background-color: #5865F2;
+}
+
+.activity-title{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.activity-description{
+    text-decoration: none;
+    color: inherit;
+}
