@@ -1,11 +1,11 @@
 html{
-    min-height:400px;
     min-width:400px;
 }
 
 body{
     background-color: #2C2F33;
     color: #F6F6F6;
+    padding-bottom: 1em;
 }
 
 h1{
