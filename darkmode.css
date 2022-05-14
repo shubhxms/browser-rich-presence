@@ -1,13 +1,29 @@
-html{min-height:300px;min-width:500px}
+html{
+    min-height:300px;
+    min-width:500px;
+}
 
 body{
-    /* background-color: #5865F2; */
+    background-color: #2C2F33;
+    color: #F6F6F6;
 }
 
 h1{
     background-color: #5865F2;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
+.activity-status{
+    background-color: #23272A;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    
+}
+.activity-status:hover{
+    border-left: 3px solid #5865F2;
+    border-bottom: 3px solid #5865F2;
+}
 .activity-title{
     text-transform: uppercase;
     font-weight: bold;
