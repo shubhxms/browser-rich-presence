@@ -1,0 +1,11 @@
+{
+    "name": "Browser-Rich-Presence-Discord",
+    "version": "1.0.0",
+    "description": "Discord rich presence activity for your browser",
+    "manifest_version": 3,
+    "author": "Sneh and Shubham",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Settings"
+    }
+}
